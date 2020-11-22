@@ -5,6 +5,7 @@ public class test {
 		
 	}
 	
+	public void e() {}
 	public void d() {}
 	public void c() {}
 	public void b() {
