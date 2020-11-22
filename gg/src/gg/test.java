@@ -4,6 +4,8 @@ public class test {
 	public void a() {
 		
 	}
+	
+	public void d() {}
 	public void c() {}
 	public void b() {
 		
